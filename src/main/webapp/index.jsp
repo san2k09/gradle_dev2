@@ -5,7 +5,7 @@
     <title>gradle-war</title>
 </head>
 <body>
-    <h1>gradle-war</h1>
+    <h1>release 2</h1>
     <a href="hello">HelloServlet</a><br/>
 </body>
 </html>
