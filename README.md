@@ -35,3 +35,4 @@ $ ./gradlew appRun
 14:00:30 INFO    http://localhost:8080/gradle-war
 Press any key to stop the server.
 ```
+# gradle_dev2
