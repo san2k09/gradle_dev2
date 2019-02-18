@@ -5,7 +5,7 @@
     <title>Release 1 </title>
 </head>
 <body>
-    <h1>Release 1</h1>
+    <h1>MASTER  Release </h1>
     <a href="hello">HelloServlet</a><br/>
 </body>
 </html>
