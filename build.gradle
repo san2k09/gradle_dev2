@@ -3,7 +3,7 @@ buildscript {
         mavenLocal()
         maven {
             name "releases"
-            url = "http://192.168.150.186:8040/artifactory/gradle-release/"
+            url = "${artifactory_contexturl}gradle-release/"
             credentials {
                 username = "admin"
                 password = "password"
@@ -11,7 +11,7 @@ buildscript {
         }
         maven {
             name "snapshots"
-            url "http://192.168.150.186:8040/artifactory/gradle-snapshot/"
+            url "${artifactory_contexturl}gradle-snapshot/"
             credentials {
                 username = "admin"
                 password = "password"
